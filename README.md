@@ -1,2 +1,2 @@
-# DataC3.Github.io
+www.datac3.io
 Repository for DataC3 Lab. ML Projects.
