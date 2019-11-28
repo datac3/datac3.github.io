@@ -1,2 +1,1 @@
-www.datac3.io
-<br>Repository for DataC3 Lab. ML Projects.
+<br>DataC3 Lab. ML Projects reside here.
